@@ -4,6 +4,7 @@
 
 # .NET Microservices Sample Reference Application
 
+Password: hkasjk87iudsahkfsaj
 Sample .NET Core reference application, powered by Microsoft, based on a simplified microservices architecture and Docker containers.
 
 ![](img/eshop-webmvc-app-screenshot.png)
